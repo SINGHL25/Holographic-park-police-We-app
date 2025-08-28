@@ -12,3 +12,10 @@ This is a **Streamlit web app** that visualizes a holographic police officer sta
 
 ## How to Run Locally
 1. Clone the repo:
+
+
+## How it Looks
+
+![Demo GIF](demo.gif)
+
+Use the sliders on the sidebar to adjust hologram glow, torch brightness, and fog density.
